@@ -47,7 +47,7 @@ Visualized template in feature space with correct cluster color.
 Visualizations
 
 Face Detection Output
-![Face Detection]([images/face_detection.png](https://github.com/shlok-glitch/MLPR-Lab-5/blob/main/face%20detection.png))
+![Face Detection]([[images/face_detection.png](https://github.com/shlok-glitch/MLPR-Lab-5/blob/main/face%20detection.png)](https://github.com/shlok-glitch/MLPR-Lab-5/blob/main/face%20detection.png))
 
 K-Means Clustering in Hue–Saturation Space
 ![Cluster Plot](images/cluster_plot.png)
