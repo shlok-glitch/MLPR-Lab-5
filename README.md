@@ -50,7 +50,8 @@ Face Detection Output
 ![Face Detection](https://github.com/shlok-glitch/MLPR-Lab-5/blob/main/face%20detection.png)
 K-Means Clustering in Hue–Saturation Space
 ![Cluster Plot](https://github.com/shlok-glitch/MLPR-Lab-5/blob/main/K%20means%20clustering.png)
-![Final clusterinig with template]()
+Final clustering with template image
+![Final clusterinig with template](https://github.com/shlok-glitch/MLPR-Lab-5/blob/main/final%20clustering.png)
 
 
 
